@@ -1,0 +1,111 @@
+
+
+.b {
+    margin-top: 20px;
+}
+.c>img{
+ padding-left: 90px; 
+}
+.d{
+   
+    padding: 25px;
+    justify-content: center;
+    display: flex;
+}
+/* b,.c,.d{
+    background-color: black;
+
+} */
+.one>img{
+    filter: brightness(40%);
+    height: 600px;
+}
+.textview{
+    position: absolute;
+    left: 5%;
+    bottom: 10%;
+    
+    
+}
+.text-content>h2{
+color: white;
+font-size: 50px;
+}
+.text-content>p{
+    color: white;
+}
+.one>img{
+    filter: brightness(40%);
+    height: 600px;
+}
+.textview{
+    position: absolute;
+    bottom: 10%;
+    left: 5%;
+    
+}
+.text-content>h2{
+color: white;
+font-size: 50px;
+}
+.text-content>p{
+    color: white;
+}
+.two>h2{
+    font-size: 50px;
+}
+.three>a{
+    font-size: 40px;
+    color: black;
+   
+}
+.four{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.n{
+    width: 100%;
+    height: 100%;
+    background-color: rgb(138, 27, 27);
+    margin-bottom: 5px;
+}
+.n>img{
+    height: 100%;
+    width: 100%;
+}
+
+.k>h2{
+    color: black;
+}
+.k{
+ margin-top: -25%;
+}
+.m{
+    height:100%;
+    background-color: black;
+    margin-bottom: 10px;
+}
+.m>img{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+.l>h2{
+    font-size: 25px;
+}
+
+.h{
+    height: 500px;
+    background-color: rgb(20, 70, 134);
+    margin-bottom: 10px;
+}
+.i{
+    height: 240px;
+    background-color: rgb(76, 121, 17);
+    margin-bottom: 10px;
+}
+.j{
+    height: 240px;
+    background-color: rgb(121, 17, 52);
+    margin-bottom: 10px;
+}
